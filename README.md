@@ -21,7 +21,7 @@ Scaling web projects, performance optimization, and advanced backend concepts
 Web Development, Frontend Design, SEO, Digital Marketing, Meta & TikTok Ads
 
 📫 How to reach me:
-your-email@example.com
+alikhanahmad532@gmail.com
 
 😄 Pronouns:
 Ahmad / Ahmi
