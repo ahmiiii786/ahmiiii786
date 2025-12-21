@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Im Ahmad Ali khan
+# 💫 Hi 👋, I'm Ahmad Ali khan
 🚀 A Passionate Web Developer | Frontend Engineer | Digital Marketing & SEO Specialist (Pakistan)
 
 📧 Email me: ✉️ alikhanahmad532@gmail   .com
