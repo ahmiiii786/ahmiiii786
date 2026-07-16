@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ahmad Ali Khan
 🚀 **Full-Stack Web Developer | UI/UX Designer | Digital Marketer & SEO Specialist**
 
-👋 Operating freelance client services and custom web solutions under my independent brand **Ahmzone**.
+👋 Operating freelance client services and custom web solutions under my independent brand **PosDevix**.
 
 📧 **Email:** [alikhanahmad532@gmail.com](mailto:alikhanahmad532@gmail.com)
 💼 **Services:** Custom POS Systems, SaaS Architectures, SMM Web Applications, Database Design, & Meta/TikTok Ads campaigns.
