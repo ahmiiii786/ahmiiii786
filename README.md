@@ -45,23 +45,20 @@ Here are some of the core production applications and local systems I have built
 
 ---
 
-# 📊 GitHub Stats & Performance:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmiiii786&theme=date_night&hide_border=false&include_all_commits=true&count_private=false" alt="Ahmad's GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahmiiii786&theme=date_night&hide_border=false" alt="Ahmad's GitHub Streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmiiii786&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+# 📊 GitHub Stats & Performance
+
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmiiii786&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)
+
+![Ahmad's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ahmiiii786&theme=date_night&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmiiii786&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmiiii786&theme=date_night&no-frame=false&no-bg=false&margin-w=4" alt="Ahmad's Trophies" />
-</p>
+
+![Ahmad's Trophies](https://github-profile-trophy.vercel.app/?username=ahmiiii786&theme=date_night&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=ahmiiii786&icon=0&color=4" alt="Visitor Count" />
 </div>
